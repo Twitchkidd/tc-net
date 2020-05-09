@@ -1,0 +1,20 @@
+{
+  "name": "tc-net",
+  "version": "1.0.0",
+  "description": "Bonjour!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twitchkidd/tc-net.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twitchkidd/tc-net/issues"
+  },
+  "homepage": "https://github.com/twitchkidd/tc-net#readme"
+}
